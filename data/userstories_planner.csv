@@ -1,0 +1,9 @@
+ID,Aufgabe,Beschreibung,Prioritaet,Status,Tags,ZugewiesenAn,ErstelltAm
+US-01,CSV-Import fuer Planner-Daten implementieren,Als System sollen CSV-Daten in ein gemeinsames Ticketformat ueberfuehrt werden.,hoch,in arbeit,import;csv;datenmodell,Kseniia,2026-05-27
+US-02,API-Endpunkt fuer Ticketabfrage bereitstellen,Als externer Dienst moechte ich die vereinheitlichten Tickets ueber eine API abrufen.,mittel,offen,api;endpunkt;rest,Fynn,2026-05-27
+US-03,Kurzanleitung fuer Kunden schreiben,Als Kunde moechte ich eine kurze Anleitung erhalten damit ich die API ohne Rueckfragen nutzen kann.,niedrig,offen,dokumentation;kunde,Finn,2026-05-28
+US-04,Validierung der Eingabedaten ergaenzen,Fehlerhafte Datensaetze sollen beim Import erkannt und abgelehnt werden.,hoch,offen,validierung;datensatz,Kseniia,2026-05-29
+US-05,Webhook fuer neue Tickets einrichten,Bei neuen Tickets soll automatisch ein Workflow ausgeloest werden.,mittel,offen,webhook;workflow,Fynn,2026-05-30
+US-06,Darstellung der Zuordnung im Antwortformat verbessern,Die Antwort der API soll fuer den Nutzer verstaendlich dargestellt werden.,niedrig,offen,darstellung;nutzer;api,Finn,2026-06-01
+US-07,Feldzuordnung zwischen CSV und JSON dokumentieren,Die Mapping-Tabelle muss fuer alle nachvollziehbar dokumentiert werden.,mittel,in arbeit,mapping;dokumentation;csv;json,Kseniia,2026-06-02
+US-08,Teststruktur fuer die Anwendung aufbauen,Die technische Struktur des Projekts soll durch Tests abgesichert werden.,hoch,offen,struktur;tests,Finn,2026-06-03

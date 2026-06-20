@@ -1,0 +1,82 @@
+[
+  {
+    "number": 101,
+    "title": "Endpunkt /userstories implementieren",
+    "body": "Als Entwickler moechte ich alle Tickets per REST-Anfrage abrufen.",
+    "priority": "hoch",
+    "status": "open",
+    "labels": ["api", "endpunkt"],
+    "assignee": "Fynn",
+    "created_at": "2026-05-27"
+  },
+  {
+    "number": 102,
+    "title": "JSON-Import fuer GitHub-Issues bauen",
+    "body": "Als System soll ein JSON-Export in unser Datenmodell ueberfuehrt werden.",
+    "priority": "hoch",
+    "status": "open",
+    "labels": ["import", "json", "datenmodell"],
+    "assignee": "Ella",
+    "created_at": "2026-05-27"
+  },
+  {
+    "number": 103,
+    "title": "Uebergabedokumentation fuer Kunden erstellen",
+    "body": "Als Kunde moechte ich eine verstaendliche Beschreibung der Bedienung erhalten.",
+    "priority": "mittel",
+    "status": "open",
+    "labels": ["dokumentation", "kunde", "uebergabe"],
+    "assignee": "Lusine",
+    "created_at": "2026-05-28"
+  },
+  {
+    "number": 104,
+    "title": "Integration zwischen Import und API absichern",
+    "body": "Der Workflow vom Dateneingang bis zur API-Antwort soll automatisiert ablaufen.",
+    "priority": "mittel",
+    "status": "open",
+    "labels": ["integration", "workflow", "api"],
+    "assignee": "Ann",
+    "created_at": "2026-05-29"
+  },
+  {
+    "number": 105,
+    "title": "Struktur der Datenbasis ueberarbeiten",
+    "body": "Die Datenstruktur soll kuenftig konsistente Feldnamen verwenden.",
+    "priority": "niedrig",
+    "status": "closed",
+    "labels": ["struktur", "datenmodell"],
+    "assignee": "Fynn1",
+    "created_at": "2026-05-30"
+  },
+  {
+    "number": 106,
+    "title": "Antwortformat fuer Nutzer aufbereiten",
+    "body": "Die API-Antwort soll fuer den Nutzer klar und verstaendlich aufbereitet werden.",
+    "priority": "niedrig",
+    "status": "open",
+    "labels": ["nutzer", "darstellung", "api"],
+    "assignee": "Sam",
+    "created_at": "2026-06-01"
+  },
+  {
+    "number": 107,
+    "title": "Validierungsregeln fuer eingehende Tickets",
+    "body": "Fehlerhafte Datensaetze beim Import sollen erkannt und protokolliert werden.",
+    "priority": "hoch",
+    "status": "open",
+    "labels": ["validierung", "import"],
+    "assignee": "Jemand",
+    "created_at": "2026-06-02"
+  },
+  {
+    "number": 108,
+    "title": "Kurzanleitung zur API-Nutzung verfassen",
+    "body": "Eine kurze Anleitung soll Kunden die Bedienung der API erklaeren.",
+    "priority": "mittel",
+    "status": "open",
+    "labels": ["anleitung", "kunde", "api"],
+    "assignee": "Someone",
+    "created_at": "2026-06-03"
+  }
+]
